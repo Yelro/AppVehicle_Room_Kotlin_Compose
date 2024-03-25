@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YelroMotor</string>
+    <string name="Vehicle_of_make">Make</string>
+    <string name="Vehicle_of_model">Model</string>
+    <string name="Vehicle_of_price">From USD</string>
+    <string name="Vehicle_of_autonomy">Autonomy</string>
+    <string name="Vehicle_of_power">Power</string>
+    <string name="Vehicle_of_batterytype">Battery Type</string>
+    <string name="Vehicle_of_chargingtime">Charging Time</string>
+    <string name="return_button">Back</string>
+    <string name="Vehicle_header">Electric Vehicles in Ecuador</string>
+    <string name="model_of_vehicle">Model</string>
+</resources>
