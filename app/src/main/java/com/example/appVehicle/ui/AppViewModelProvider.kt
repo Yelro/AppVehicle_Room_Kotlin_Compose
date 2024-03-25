@@ -8,7 +8,6 @@ import androidx.lifecycle.viewmodel.viewModelFactory
 import com.example.appVehicle.VehicleApplication
 import com.example.appVehicle.ui.Vehicle.VehicleDetailsViewModel
 import com.example.appVehicle.ui.home.HomeViewModel
-
 object ViewModelProvider {
     val Factory = viewModelFactory {
 

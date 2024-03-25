@@ -9,7 +9,6 @@ import androidx.navigation.compose.composable
 import androidx.navigation.navArgument
 import com.example.appVehicle.ui.Vehicle.VehicleDetailsScreen
 import com.example.appVehicle.ui.home.HomeScreen
-
 @Composable
 fun VehicleNavHost(
     navController: NavHostController,

@@ -21,5 +21,4 @@ class VehiclesRepositoryOffline(private val VehicleDao: VehicleDao) : VehiclesRe
     override suspend fun insertVehicles(Vehicles: List<Vehicle>) {
         VehicleDao.insertAll(Vehicles)
     }
-
 }

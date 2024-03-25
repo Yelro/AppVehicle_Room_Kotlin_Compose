@@ -1,4 +1,3 @@
-
 package com.example.appVehicle.data
 
 import androidx.room.Dao

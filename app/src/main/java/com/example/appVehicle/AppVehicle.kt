@@ -15,7 +15,6 @@ import androidx.compose.ui.res.stringResource
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
 import com.example.appVehicle.ui.navigation.VehicleNavHost
-
 @SuppressLint("UnusedMaterial3ScaffoldPaddingParameter")
 @Composable
 fun VehicleApp(navController: NavHostController = rememberNavController()) {
